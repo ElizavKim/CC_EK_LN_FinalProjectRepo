@@ -1,4 +1,4 @@
-# CC_EK_LN_FinalProjectRepo
+# Highlander Industries
 ### Team Members:  
 Laina Nguyen, Liza Kim, Caroline Conrad
 
