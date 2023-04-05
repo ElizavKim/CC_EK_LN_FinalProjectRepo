@@ -8,9 +8,9 @@ The Swiss Army App is an application created for Highlander Industries as a mean
 ### Installation & Usage:
 
 ### System Requirements:
-As the app is made in JavaFX, it can be run on Windows, iOS, or Android devices. The app is formatted for a tablet; this tablet must have JDK 6 Update 13 installed at minimum. 
-Installing IDEs such as Gluon VM and Mobile Project may be helpful. 
-1GB of storage is necessary to run the application but 2GB is recommended.
+> As the app is made in JavaFX, it can be run on Windows, iOS, or Android devices. The app is formatted for a tablet; this tablet must have JDK 6 Update 13 > installed at minimum. 
+> Installing IDEs such as Gluon VM and Mobile Project may be helpful. 
+> 1GB of storage is necessary to run the application but 2GB is recommended.
 
 ### User Stories:
 The <a href="https://www.figma.com/file/wA9F2tL9kpyJ02dGjgbBEI/CIS-332%3A-Final-Proj-%7C-Swiss-Army-App?node-id=37-110" target="_blank">User Stories</a> were created based on the client's requirements.
