@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="791aef95-870f-44ad-b032-5164e9f661f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/java/com/example/javafx/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/resources/com/example/javafx/landingpage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/resources/highindlogo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/java/com/example/javafx/ActivityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/resources/com/example/javafx/activitypage.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
