@@ -16,5 +16,7 @@ Installing IDEs such as Gluon VM and Mobile Project may be helpful.<br />
 The <a href="https://www.figma.com/file/wA9F2tL9kpyJ02dGjgbBEI/CIS-332%3A-Final-Proj-%7C-Swiss-Army-App?node-id=37-110" target="_blank">User Stories</a> were created based on the client's requirements.
 
 ### UML Diagrams
+The <a href="https://www.figma.com/file/wA9F2tL9kpyJ02dGjgbBEI/CIS-332%3A-Final-Proj-%7C-Swiss-Army-App?node-id=28-110&t=SDeHwCu5MOkNYESU-0" target="_blank">UML Diagrams</a> were created based on expected uses of classes.
+
 
 ### UI Mockups
